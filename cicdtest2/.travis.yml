@@ -1,0 +1,9 @@
+language: pythhon
+python:
+  - 3.7
+
+script: python3 cicdtest2/test.py
+
+notifications:
+  slack: nitsa-kai:DOVKja2Re3I8LR8jutpFWikK
+
