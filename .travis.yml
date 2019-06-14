@@ -2,4 +2,4 @@ language: pythhon
 python:
   - 3.7
 
-script: python cicdtest2/test.py
+script: python test.py
