@@ -2,7 +2,7 @@ language: pythhon
 python:
   - 3.7
 
-script: python3 cicdtest2/test.py
+script: python cicdtest2/test.py
 
 notifications:
   slack: nitsa-kai:1MeCU500JwC4d4lxjW9PWsSQ
